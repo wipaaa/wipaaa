@@ -5,6 +5,8 @@
 ![JavaScript][url-badge-javascript]
 ![PHP][url-badge-php]
 ![Python][url-badge-python]
+![React][url-badge-react]
+![Webpack][url-badge-webpack]
 
 Information System student at [ITB STIKOM Bali][url-university]. 
 Front-end developer with passion for programming and studying.
@@ -35,6 +37,8 @@ Proudly from [Bali, Indonesia][url-map]
 [url-badge-javascript]: https://img.shields.io/badge/JavaScript-Intermediate-yellow
 [url-badge-php]: https://img.shields.io/badge/PHP-Intermediate-blue
 [url-badge-python]: https://img.shields.io/badge/Python-Beginner-cyan
+[url-badge-react]: https://img.shields.io/badge/React-Beginner-limegreen
+[url-badge-webpack]: https://img.shields.io/badge/Webpack-Beginner-lightblue
 
 [url-social-github]: https://github.com/wipaaa
 [url-social-email]: mailto:ini.dwiii@gmail.com
