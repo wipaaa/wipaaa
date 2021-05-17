@@ -19,6 +19,7 @@ Proudly from [Bali, Indonesia][url-map]
 - 🌱 I'm currently learning **Blockchain** and/or **Advanced JavaScript**
 - ⚙️ I use daily: `.html`, `.css`, `.js`, `.jsx`, `.php`, `.py`, `.sol`
 - ⚡ Fun fact: I really like watching anime
+- 😍 Fun fact: I also really like Blackpink / Weekly 
 
 ### Get in Touch 📧
 
