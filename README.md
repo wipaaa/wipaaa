@@ -16,15 +16,15 @@ Proudly from [Bali, Indonesia][url-map]
 ### Bio 🧾
 
 - 🔭 I'm currently studying **Information System** at STIKOM Bali
-- 🌱 I'm currently learning **Blockchain** and/or **Advanced JavaScript**
-- ⚙️ I use daily: `.html`, `.css`, `.js`, `.jsx`, `.php`, `.py`, `.sol`
+- 🌱 I'm currently learning **Advanced JavaScript** and/or **React JS**
+- ⚙️ I use daily: `.html`, `.css`, `.js`, `.jsx`, `.php`, `.py`
 - ⚡ Fun fact: I really like watching anime
 - 😍 Fun fact: I also really like Blackpink / Weekly 
 
 ### Get in Touch 📧
 
-- Email: [ini.dwiii@gmail.com][url-social-email]
-- Github: [github][url-social-github]
+- Email: ini.wipaaa@gmail.com
+- Github: https://github.com/wipaaa
 - Site: Coming soon!
 
 ### My Stats at Github 📈
@@ -40,9 +40,6 @@ Proudly from [Bali, Indonesia][url-map]
 [url-badge-python]: https://img.shields.io/badge/Python-Beginner-cyan
 [url-badge-react]: https://img.shields.io/badge/React-Beginner-limegreen
 [url-badge-webpack]: https://img.shields.io/badge/Webpack-Beginner-lightblue
-
-[url-social-github]: https://github.com/wipaaa
-[url-social-email]: mailto:ini.dwiii@gmail.com
 
 [url-map]: https://goo.gl/maps/kfQTAYw1PDgvb51n9
 [url-university]: https://stikom-bali.ac.id/
